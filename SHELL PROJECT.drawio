@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.4">
+  <diagram name="Page-1" id="Vq_qL6MAA6T3b-JdrKMp">
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nhia09eYR47ixTGk3fDe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-1" target="Nhia09eYR47ixTGk3fDe-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-1" value="User opening the app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-4" target="Nhia09eYR47ixTGk3fDe-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-4" target="Nhia09eYR47ixTGk3fDe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-4" value="&lt;div&gt;Internet&lt;/div&gt;&lt;div&gt;&amp;nbsp;connection?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="350" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-6" value="&lt;div&gt;Display the real-time&amp;nbsp;&lt;/div&gt;&lt;div&gt;locations of the animals&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="550" />
+              <mxPoint x="190" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-13" value="&lt;div&gt;Show last&amp;nbsp;&lt;/div&gt;&lt;div&gt;known location&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="362.5" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-17" target="Nhia09eYR47ixTGk3fDe-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-17" value="Animals near the user?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-20" value="Notify the user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-23" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Nhia09eYR47ixTGk3fDe-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="740" as="sourcePoint" />
+            <mxPoint x="210" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-24" target="Nhia09eYR47ixTGk3fDe-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-24" value="&lt;div&gt;User saw&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;animals near road?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="695" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-26" value="Making a report to Animal Control" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="540" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-29" target="Nhia09eYR47ixTGk3fDe-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nhia09eYR47ixTGk3fDe-29" target="Nhia09eYR47ixTGk3fDe-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-29" value="&lt;div&gt;Action taken by&amp;nbsp;&lt;/div&gt;&lt;div&gt;animal control?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="525" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-31" value="Report status:Completed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="410" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-34" value="&lt;strong&gt;Report status:incomplete&lt;/strong&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-38" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-39" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-40" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="665" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-41" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665" y="635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-42" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nhia09eYR47ixTGk3fDe-45" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
